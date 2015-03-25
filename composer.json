@@ -10,10 +10,7 @@
             "email": "enam33@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "bin": [
-        "bin/phantomjs"
-    ],
     "require": {
-    }
+    },
+    "minimum-stability": "stable"
 }

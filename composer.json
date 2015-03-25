@@ -1,0 +1,19 @@
+{
+    "name": "anam/phantomjs-linux-x86-binary",
+    "description": "PhantomJS static linked binary for 64 bit linux systems. Most of Linux distributions are supported including Ubuntu, Debian, Fedora and CentOS.",
+    "keywords": ["phantomjs", "phantomjs binary", "binary"],
+    "license": "BSD-2-Clause",
+    "homepage": "http://phantomjs.org/download.html",
+    "authors": [
+        {
+            "name": "Anam Hossain",
+            "email": "enam33@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/phantomjs"
+    ],
+    "require": {
+    }
+}

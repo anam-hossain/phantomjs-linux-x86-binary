@@ -3,7 +3,7 @@ namespace Anam\PhantomLinux;
 
 class Path
 {
-    public static function get()
+    public static function binaryPath()
     {
         return __DIR__.'/bin/phantomjs';
     }

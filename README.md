@@ -8,7 +8,7 @@ Add the following to your `composer.json` file:
 ```json
 {
   "require" : {
-    "anam/phantomjs-linux-x86-binary": "1.9.8"
+    "anam/phantomjs-linux-x86-binary": "~1.0"
   }
 }
 ```

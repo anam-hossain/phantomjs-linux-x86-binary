@@ -12,3 +12,12 @@ Add the following to your `composer.json` file:
   }
 }
 ```
+
+## Binary location
+
+```php
+use Anam\PhantomLinux\Path;
+
+Path::binaryPath();
+
+```

@@ -12,5 +12,10 @@
     ],
     "require": {
     },
+    "autoload": {
+        "psr-4": {
+            "Anam\\PhantomLinux\\" : "/" 
+        }
+    },
     "minimum-stability": "stable"
 }

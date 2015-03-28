@@ -17,5 +17,6 @@
             "Anam\\PhantomLinux\\" : "/" 
         }
     },
+    "bin": "bin/phantomjs",
     "minimum-stability": "stable"
 }

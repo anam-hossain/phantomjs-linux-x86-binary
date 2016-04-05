@@ -8,10 +8,12 @@ Add the following to your `composer.json` file:
 ```json
 {
   "require" : {
-    "anam/phantomjs-linux-x86-binary": "~1.0"
+    "anam/phantomjs-linux-x86-binary": "~2.1.1"
   }
 }
 ```
+## PhantomJS version
+phantomjs-2.1.1
 
 ## Binary location
 

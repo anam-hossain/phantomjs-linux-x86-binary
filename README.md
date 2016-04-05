@@ -12,7 +12,7 @@ Add the following to your `composer.json` file:
   }
 }
 ```
-## PhantomJS version
+## Current PhantomJS version
 phantomjs-2.1.1
 
 ## Binary location
